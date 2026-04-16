@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "HUNTERoB.aternos.me",
-    "port": 14090,
+    "ip": "PlayHUNTERoB.aternos.me",
+    "port": 32117,
     "version": "",
     "try-creative": false
   },
